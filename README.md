@@ -1,5 +1,4 @@
 # BayesiaNetwork
-# Project Name
 
 ## Description
 This project contains a collection of Jupyter Notebook files related to optimization algorithms including Hill Climbing, Genetic Algorithm, Iterated Local Search, Simulated Annealing, and Tabu Search. Each notebook explores the implementation and application of these algorithms in solving optimization problems.
